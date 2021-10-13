@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nazimmalik421
-- 👀 I’m interested in Front-end development
+- 👀 I’m interested in Fullstack development.
 - 🌱 I’m currently learning javaScript and React.js
 - 📫 Reach me on nazimmalik421@gmail.com
 
